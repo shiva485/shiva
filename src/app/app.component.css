@@ -1,0 +1,32 @@
+.side li{
+  padding:10px;
+  
+}
+.side{
+  background: #fff;
+  height:700px;
+}
+.side a {
+    text-decoration:none;
+    color:black;
+}
+.nav{
+    color:#fff;
+}
+.bg{
+  background: #C3ECEB;
+  height: auto;
+}
+.col-sm-10{
+
+  height:700px;
+  
+}
+.over{
+padding-right: 10px
+}
+.so{
+  color: red
+}
+
+
